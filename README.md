@@ -5,7 +5,7 @@
 * Automation
 * Machine Learning 
 * Deep Learning
-* Computer vision
+* Computer Vision
 * Natural Language Processing 
 
 #### Folow me on- 
