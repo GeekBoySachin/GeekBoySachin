@@ -2,6 +2,7 @@
 
 ### I have technical experience and interest in -
 * Python
+* Automation
 * Machine Learning 
 * Deep Learning
 * Computer vision
