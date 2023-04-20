@@ -1,25 +1,17 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Hey! I'm Sachin. Nice to see you.</h1>
+<h1><center><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Hi I'm Sachin. it’s nice to see you.</center></h1>
 
-### I have technical experience and interest in -
-* Python
-* Robotic Process Automation
-* Machine Learning 
-* Deep Learning
-* Computer Vision
-* Natural Language Processing 
+### **I have technical experience and interest in** -
 
-#### Folow me on- 
+  * Python 
+  * Robotic Process Automation 
+  * Machine Learning
+     * Classical Machine Learning
+     * Deep Learning
+     * Computer Vision
+     * Natural Language Processing (NLP)
 
-[<img align="left"  alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"/>][YouTube]
+
 <br>
-
-<hr>
-
-[linkedin]: https://www.linkedin.com/in/sachin-vishwakarma-a9242222a/
-[YouTube]: https://www.youtube.com/channel/UCVxcTmLxkDvoifiKPba7mmQ
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -40,12 +32,37 @@
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="90" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a> 
 </p>
+<br>
+<hr>
 
-### My Hobbies and interests -
-* Web Surfing
-* Gaming
-* Reading 
-* Sketching
+#### **Get in touch with me -** 
 
+[<img align="left"  alt="LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"/>][YouTube]
 
+[linkedin]: https://www.linkedin.com/in/sachin-vishwakarma-a9242222a/
+[YouTube]: https://www.youtube.com/channel/UCVxcTmLxkDvoifiKPba7mmQ
 
+<br>
+<hr>
+
+## Index
+* [Machine Learning Projects - Scikit Learn](#Machine-learning-projects)
+* [Deep Learning Projects -](#deep-learning-projects)
+    * [Tensorflow](#tensorflow-projects)
+
+<hr>
+
+## Machine-learning-projects
+
+* [Concrete Compressive Strength Prediction](https://github.com/GeekBoySachin/concrete-strength-prediction)
+    > Machine learning based project to predict the strength of the cement mixture 
+
+## deep-learning-projects
+### tensorflow-projects
+* [Deep-Learning-ANN](https://github.com/GeekBoySachin/Deep-Learning-ANN/tree/main)
+
+| Jupyter Notebooks | Description |
+------------------|----------------
+| [ANN implementation using Tensorflow](https://github.com/GeekBoySachin/Deep-Learning-ANN/blob/main/03_04_07_ANN_implementation_using_tf_keras.ipynb) | This notebooks explains the implementation of Artificial neural network using tensorflow |
+| [Batch_Normalization]() | This notebooks explains the implementation of Batch normalization in Artificial neural network using tensorflow |
