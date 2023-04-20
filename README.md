@@ -33,7 +33,7 @@
 <a href="https://azure.microsoft.com/en-in" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a> 
 </p>
 <br>
-<hr>
+
 
 #### **Get in touch with me -** 
 
@@ -44,14 +44,14 @@
 [YouTube]: https://www.youtube.com/channel/UCVxcTmLxkDvoifiKPba7mmQ
 
 <br>
-<hr>
+
 
 ## Index
 * [Machine Learning Projects - Scikit Learn](#Machine-learning-projects)
 * [Deep Learning Projects -](#deep-learning-projects)
     * [Tensorflow](#tensorflow-projects)
 
-<hr>
+
 
 ## Machine-learning-projects
 
