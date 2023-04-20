@@ -44,14 +44,14 @@
 [YouTube]: https://www.youtube.com/channel/UCVxcTmLxkDvoifiKPba7mmQ
 
 <br>
-
+<br>
 
 ## Index
 * [Machine Learning Projects - Scikit Learn](#Machine-learning-projects)
 * [Deep Learning Projects -](#deep-learning-projects)
     * [Tensorflow](#tensorflow-projects)
 
-
+<br>
 
 ## Machine-learning-projects
 
